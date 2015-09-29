@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  ViewControllerMethods
+//  CircleButton
 //
-//  Created by Lawrence F MacFadyen on 2015-09-29.
+//  Created by Lawrence F MacFadyen on 2015-09-02.
 //  Copyright © 2015 LawrenceM. All rights reserved.
 //
 
